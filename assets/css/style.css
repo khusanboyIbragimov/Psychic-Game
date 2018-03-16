@@ -1,0 +1,32 @@
+
+.jumbotron{
+    background-color: #faf550;
+    height: 100%;
+}
+#gameName{
+    color: red;
+    font-family: 'Monoton', cursive;
+}
+hr{
+    width: 50%;
+    border-top: 2px solid red;
+
+}
+h3{
+    color: red;
+}
+.guess{
+    color: blue;
+}
+h2{
+    color: green;
+}
+
+.btn{
+    padding: 20px;
+    font-size: 20px;
+}
+body{
+    background-color: #faf550;
+    height: 100%;
+}
