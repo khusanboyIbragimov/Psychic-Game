@@ -30,3 +30,21 @@ body{
     background-color: #faf550;
     height: 100%;
 }
+img{
+    width: 600px;
+}
+@media screen and (max-width:640px){
+    #gameName{
+        margin-left: 100px;
+        width: 100%;
+        
+    }
+    #press{
+    width: 100%;
+    margin-left: 100px;
+    }
+    hr{
+        width: 395px;
+        margin-left: 105px;
+    }
+}
